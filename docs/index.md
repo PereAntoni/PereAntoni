@@ -3,5 +3,4 @@
  title: Inici
  nav_order: 1
 ---
-
-# AQUESTA ES LA PÀGINA INICIAL
+{% include directivesCSS.html %}
