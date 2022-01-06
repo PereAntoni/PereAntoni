@@ -1,34 +1,134 @@
-{
-  
-  "0": {
-    "title": "",
-    "content": "404 . Page not found :( . The requested page could not be found. .",
-    "url": "http://localhost:4000/404.html",
-    "relUrl": "/404.html"
-  }
-  ,"1": {
+{"0": {
+    "doc": "About",
     "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll .",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
-  }
-  ,"2": {
+  },"1": {
+    "doc": "Inici",
+    "title": "AQUESTA ES LA PÀGINA INICIAL",
+    "content": " ",
+    "url": "http://localhost:4000/#aquesta-es-la-p%C3%A0gina-inicial",
+    "relUrl": "/#aquesta-es-la-pàgina-inicial"
+  },"2": {
+    "doc": "Inici",
     "title": "Inici",
-    "content": "Aquesta és la pàgina de inici .",
+    "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  }
-  ,"3": {
+  },"3": {
+    "doc": "BLOC PROGRAMACIÓ",
+    "title": "BLOC DE PROGRAMACIÓ",
+    "content": "Estructures d’emmagatzematge. Diferents tipus. Algorísmia i codificació. Estructures de control. Diagrames de flux . Codificació de programes amb un llenguatge d’alt nivell. Traçabilitat, depuració i optimització d’un codi de programació. ",
+    "url": "http://localhost:4000/programacio.html#bloc-de-programaci%C3%B3",
+    "relUrl": "/programacio.html#bloc-de-programació"
+  },"4": {
+    "doc": "BLOC PROGRAMACIÓ",
     "title": "BLOC PROGRAMACIÓ",
-    "content": "BLOC DE PROGRAMACIÓ . Estructures d’emmagatzematge. Diferents tipus. . Algorísmia i codificació. Estructures de control. Diagrames de flux . Codificació de programes amb un llenguatge d’alt nivell. . Traçabilitat, depuració i optimització d’un codi de programació. .",
+    "content": " ",
     "url": "http://localhost:4000/programacio.html",
     "relUrl": "/programacio.html"
-  }
-  ,"4": {
+  },"5": {
+    "doc": "Sorroco",
+    "title": "Sorroco",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "http://localhost:4000/about/",
+    "relUrl": "/about/"
+  },"6": {
+    "doc": "Customization",
+    "title": "Customization",
+    "content": " ",
+    "url": "http://localhost:4000/temari.html",
+    "relUrl": "/temari.html"
+  },"7": {
+    "doc": "TIC2",
+    "title": "BLOC 1. PROGRAMACIÓ",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#bloc-1-programaci%C3%B3",
+    "relUrl": "/tic2.html#bloc-1-programació"
+  },"8": {
+    "doc": "TIC2",
+    "title": "UNITAT 1: ESTRUCTURA DEL COMPUTADOR, EL SISTEMA OPERATIU I EINES DE PROGRAMADOR",
+    "content": "SISTEMES EMMAGATZEMATGE ORDINADOR . NOMBRES BINARIS . ÚS DEL SHELL. REPOSITORI GITHUB. ",
+    "url": "http://localhost:4000/tic2.html#unitat-1-estructura-del-computador-el-sistema-operatiu-i-eines-de-programador",
+    "relUrl": "/tic2.html#unitat-1-estructura-del-computador-el-sistema-operatiu-i-eines-de-programador"
+  },"9": {
+    "doc": "TIC2",
+    "title": "UNITAT 2 : DIAGRAMES DE FLUX PSEUDOCODI. PRIMERS PROGRAMES.",
+    "content": "ENTENDRE UML I PSEUDOCODI. EDITORS DE UML. PLANT UML. PROBLEMES D’EXEMPLE. ",
+    "url": "http://localhost:4000/tic2.html#unitat-2--diagrames-de-flux-pseudocodi-primers-programes",
+    "relUrl": "/tic2.html#unitat-2--diagrames-de-flux-pseudocodi-primers-programes"
+  },"10": {
+    "doc": "TIC2",
+    "title": "UNITAT 3: ELS LLENGUATGES DE PROGRAMACIÓ. PROGRAMAM EN PYTHON",
+    "content": "PRIMERS PROGRAMES . CONTROL DE PROGRAMA AMB CONDICIONALS . VARIABLES LOCALS I GLOBALS. ",
+    "url": "http://localhost:4000/tic2.html#unitat-3-els-llenguatges-de-programaci%C3%B3-programam-en-python",
+    "relUrl": "/tic2.html#unitat-3-els-llenguatges-de-programació-programam-en-python"
+  },"11": {
+    "doc": "TIC2",
+    "title": "UNITAT 4: ESTRUCTURES DE DADES",
+    "content": "CONTROL DE PROGRAMA AMB BUCLES . ESTRUCTURES ARRAY, PILES I LLISTES . FUNCIONS . ALGORITMES CLÀSSICS . ",
+    "url": "http://localhost:4000/tic2.html#unitat-4-estructures-de-dades",
+    "relUrl": "/tic2.html#unitat-4-estructures-de-dades"
+  },"12": {
+    "doc": "TIC2",
+    "title": "UNITAT 5: OPTIMITZACIÓ DE CODI. FUNCIONS I CLASSES",
+    "content": "FUNCIONS TEORIA I PROBLEMES . PILARS DE LA PROGRAMACIÓ ORIENTADA A OBJECTES. ",
+    "url": "http://localhost:4000/tic2.html#unitat-5-optimitzaci%C3%B3-de-codi-funcions-i-classes",
+    "relUrl": "/tic2.html#unitat-5-optimització-de-codi-funcions-i-classes"
+  },"13": {
+    "doc": "TIC2",
+    "title": "BLOC 2. PUBLICACIÓ I DIFUSIÓ DE CONTINGUT",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#bloc-2-publicaci%C3%B3-i-difusi%C3%B3-de-contingut",
+    "relUrl": "/tic2.html#bloc-2-publicació-i-difusió-de-contingut"
+  },"14": {
+    "doc": "TIC2",
+    "title": "UNITAT 6: FUNCIONAMENT DE LA XARXA",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-6-funcionament-de-la-xarxa",
+    "relUrl": "/tic2.html#unitat-6-funcionament-de-la-xarxa"
+  },"15": {
+    "doc": "TIC2",
+    "title": "UNITAT 7: EL LLENGUATGE HTML",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-7-el-llenguatge-html",
+    "relUrl": "/tic2.html#unitat-7-el-llenguatge-html"
+  },"16": {
+    "doc": "TIC2",
+    "title": "UNITAT 8: GESTORS DE CONTINGUT",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-8-gestors-de-contingut",
+    "relUrl": "/tic2.html#unitat-8-gestors-de-contingut"
+  },"17": {
+    "doc": "TIC2",
+    "title": "UNITAT 9: PROGRAMANT SOBRE EL WEB. FUNCIONS API.",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-9-programant-sobre-el-web-funcions-api",
+    "relUrl": "/tic2.html#unitat-9-programant-sobre-el-web-funcions-api"
+  },"18": {
+    "doc": "TIC2",
+    "title": "BLOC 3. SEGURETAT",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#bloc-3-seguretat",
+    "relUrl": "/tic2.html#bloc-3-seguretat"
+  },"19": {
+    "doc": "TIC2",
+    "title": "UNITAT 11: SEGURETAT LOCAL",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-11-seguretat-local",
+    "relUrl": "/tic2.html#unitat-11-seguretat-local"
+  },"20": {
+    "doc": "TIC2",
+    "title": "UNITAT 12: SEGURETAT A LA XARXA",
+    "content": " ",
+    "url": "http://localhost:4000/tic2.html#unitat-12-seguretat-a-la-xarxa",
+    "relUrl": "/tic2.html#unitat-12-seguretat-a-la-xarxa"
+  },"21": {
+    "doc": "TIC2",
     "title": "TIC2",
-    "content": "BLOC 1. PROGRAMACIÓ . UNITAT 1: ESTRUCTURA DEL COMPUTADOR, EL SISTEMA OPERATIU I EINES DE PROGRAMADOR . SISTEMES EMMAGATZEMATGE ORDINADOR . NOMBRES BINARIS . ÚS DEL SHELL. . REPOSITORI GITHUB. . UNITAT 2 : DIAGRAMES DE FLUX PSEUDOCODI. PRIMERS PROGRAMES. . ENTENDRE UML I PSEUDOCODI. . EDITORS DE UML. PLANT UML. . PROBLEMES D’EXEMPLE. . UNITAT 3: ELS LLENGUATGES DE PROGRAMACIÓ. PROGRAMAM EN PYTHON . PRIMERS PROGRAMES . CONTROL DE PROGRAMA AMB CONDICIONALS . VARIABLES LOCALS I GLOBALS. . UNITAT 4: ESTRUCTURES DE DADES . CONTROL DE PROGRAMA AMB BUCLES . ESTRUCTURES ARRAY, PILES I LLISTES . FUNCIONS . ALGORITMES CLÀSSICS . UNITAT 5: OPTIMITZACIÓ DE CODI. FUNCIONS I CLASSES . FUNCIONS TEORIA I PROBLEMES . PILARS DE LA PROGRAMACIÓ ORIENTADA A OBJECTES. . BLOC 2. PUBLICACIÓ I DIFUSIÓ DE CONTINGUT . UNITAT 6: FUNCIONAMENT DE LA XARXA . UNITAT 7: EL LLENGUATGE HTML . UNITAT 8: GESTORS DE CONTINGUT . UNITAT 9: PROGRAMANT SOBRE EL WEB. FUNCIONS API. . BLOC 3. SEGURETAT . UNITAT 11: SEGURETAT LOCAL . UNITAT 12: SEGURETAT A LA XARXA .",
+    "content": " ",
     "url": "http://localhost:4000/tic2.html",
     "relUrl": "/tic2.html"
   }
-  
 }
