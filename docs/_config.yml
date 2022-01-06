@@ -32,6 +32,8 @@ github_username:  pereantoni
 # Build settings
 remote_theme: pmarsceill/just-the-docs@v0.2.8
 
+include:
+  - _static
 
 plugins:
   - jekyll-feed
